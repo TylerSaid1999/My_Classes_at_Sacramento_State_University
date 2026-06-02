@@ -1,1 +1,2 @@
-
+# This class introduced systems programming using the C language in a UNIX environment.
+# We learned about C preprocessor macros, input/output, bit manipulation, file permissions, shell scripting, makefiles, source code control, system calls, pointers, dynamic memory allocation, libraries, linking, relocation, and assembler symbol tables.
