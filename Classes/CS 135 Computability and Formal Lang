@@ -1,1 +1,3 @@
+# This class introduced the limits of computation and methods for specifying and processing formal languages.
 
+# We learned about regular languages, regular expressions, finite automata, context-free languages, grammars, pushdown automata, lexical and syntax analysis, parsing techniques, Turing machines, the halting problem, reductions, and functional programming concepts.
